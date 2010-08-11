@@ -1,5 +1,0 @@
-objc[13230]: Class EAAccessoryManager is implemented in both ?? and /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/ExternalAccessory.framework/ExternalAccessory. One of the two will be used. Which one is undefined.
-objc[13230]: Class EASession is implemented in both ?? and /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/ExternalAccessory.framework/ExternalAccessory. One of the two will be used. Which one is undefined.
-objc[13230]: Class EAAccessory is implemented in both ?? and /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.0.sdk/System/Library/Frameworks/ExternalAccessory.framework/ExternalAccessory. One of the two will be used. Which one is undefined.
-2010-08-11 20:56:32.714 .simlauncher-4[13230:1607] ******* Accessibility Status Changed: On
-2010-08-11 20:56:32.734 .simlauncher-4[13230:1607] ********** Loading AX for: com.yourcompany.monohelloworld ************
